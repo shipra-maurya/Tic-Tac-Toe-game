@@ -21,11 +21,7 @@ Play against a friend in this classic 3x3 grid game right in your browser.
 
 ---
 
-## 📷 Screenshot
-*(Add your screenshot here)*  
-![Tic Tac Toe Screenshot](screenshot.png)
 
----
 
 ## 🎯 How to Play
 1. Player X starts first.
